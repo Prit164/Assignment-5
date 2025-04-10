@@ -1,3 +1,11 @@
+/*
+<!--
+Name: Prit Patel
+File: Script.html
+Date: 10 April 2025
+A Script file .
+-->
+*/
 document.addEventListener('DOMContentLoaded', () => {
     const toggleBtn = document.getElementById('toggle-comments');
     const commentWrapper = document.querySelector('.comment-wrapper');
